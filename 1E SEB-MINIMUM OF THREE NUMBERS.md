@@ -20,10 +20,11 @@ a = int(input())
 b = int(input())
 c = int(input())
 d = (a) if a<b and a<c else (b) if b<a and b<c else (c)
-print (f"The Smallest  of the three a= {a} b= {b} c= {c} is {d}")```
+print (f"The Smallest  of the three a= {a} b= {b} c= {c} is {d}")
+```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/aa818bdb-8d38-46e8-acfc-f8cc65769888)
+![image](https://github.com/user-attachments/assets/0413c9e7-8cb1-40a8-a05c-8d011771aea2)
 
 ## RESULT
 Thus the Python program for finding the minimum between three integer  numbers is implemented and executed successfully.
